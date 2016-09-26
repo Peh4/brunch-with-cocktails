@@ -1,0 +1,17 @@
+{
+  "name": "brunch-app",
+  "description": "brunch with cocktail + knacss + font-awesome",
+  "main": "",
+  "authors": [
+    "peh4"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Peh4/brunch-with-cocktails",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

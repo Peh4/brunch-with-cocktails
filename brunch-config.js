@@ -17,7 +17,8 @@ module.exports = {
 				, includePaths: [
           	'node_modules/bourbon/core'
           , 'node_modules/bourbon-neat/app/assets/stylesheets'
-          ,	'node_modules/normalize.css'
+          ,	'bower_components/KNACSS/sass'
+          , 'bower_components/font-awesome/scss'
         	]
       	// Set the precision for arithmetic operations.
       	,	precision: 8
