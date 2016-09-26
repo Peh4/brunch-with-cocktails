@@ -1,11 +1,3 @@
 @charset "utf-8";
-// Normalize default styles and browser inconsistencies. see https://necolas.github.io/normalize.css/
-@import "normalize";
 
-// Import Bourbon, Neat & Bitters
-@import "bourbon";
-@import "grid-settings";
-@import "neat";
-@import "base/base";
-
-// Import site specific CSS
+@import "../../bower_components/KNACSS/sass/knacss.scss";
